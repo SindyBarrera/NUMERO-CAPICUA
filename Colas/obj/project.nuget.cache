@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L2hUqz9ifzpf4SL05JHtQW1s84nGk0TEYMiN2vTD3VwYmUYNnm9GF9H630V9wa9NdBGuDGP/ThZy/xEuMh5qOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sindy Barrera\\Desktop\\STACK Y QUEUE NUMERO CAPICUA\\Colas\\Colas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sindy Barrera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

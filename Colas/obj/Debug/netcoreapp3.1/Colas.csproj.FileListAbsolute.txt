@@ -1,0 +1,39 @@
+C:\Users\Sindy Barrera\source\repos\Colas\bin\Debug\netcoreapp3.1\Colas.exe
+C:\Users\Sindy Barrera\source\repos\Colas\bin\Debug\netcoreapp3.1\Colas.deps.json
+C:\Users\Sindy Barrera\source\repos\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.json
+C:\Users\Sindy Barrera\source\repos\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.dev.json
+C:\Users\Sindy Barrera\source\repos\Colas\bin\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Sindy Barrera\source\repos\Colas\bin\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Sindy Barrera\source\repos\Colas\obj\Debug\netcoreapp3.1\Colas.csprojAssemblyReference.cache
+C:\Users\Sindy Barrera\source\repos\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfoInputs.cache
+C:\Users\Sindy Barrera\source\repos\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfo.cs
+C:\Users\Sindy Barrera\source\repos\Colas\obj\Debug\netcoreapp3.1\Colas.csproj.CoreCompileInputs.cache
+C:\Users\Sindy Barrera\source\repos\Colas\obj\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Sindy Barrera\source\repos\Colas\obj\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Sindy Barrera\source\repos\Colas\obj\Debug\netcoreapp3.1\Colas.genruntimeconfig.cache
+C:\Users\Sindy Barrera\Desktop\Colas\bin\Debug\netcoreapp3.1\Colas.exe
+C:\Users\Sindy Barrera\Desktop\Colas\bin\Debug\netcoreapp3.1\Colas.deps.json
+C:\Users\Sindy Barrera\Desktop\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.json
+C:\Users\Sindy Barrera\Desktop\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.dev.json
+C:\Users\Sindy Barrera\Desktop\Colas\bin\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Sindy Barrera\Desktop\Colas\bin\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Sindy Barrera\Desktop\Colas\obj\Debug\netcoreapp3.1\Colas.csprojAssemblyReference.cache
+C:\Users\Sindy Barrera\Desktop\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfoInputs.cache
+C:\Users\Sindy Barrera\Desktop\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfo.cs
+C:\Users\Sindy Barrera\Desktop\Colas\obj\Debug\netcoreapp3.1\Colas.csproj.CoreCompileInputs.cache
+C:\Users\Sindy Barrera\Desktop\Colas\obj\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Sindy Barrera\Desktop\Colas\obj\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Sindy Barrera\Desktop\Colas\obj\Debug\netcoreapp3.1\Colas.genruntimeconfig.cache
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\bin\Debug\netcoreapp3.1\Colas.exe
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\bin\Debug\netcoreapp3.1\Colas.deps.json
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.json
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.dev.json
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\bin\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\bin\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\obj\Debug\netcoreapp3.1\Colas.csprojAssemblyReference.cache
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfoInputs.cache
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfo.cs
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\obj\Debug\netcoreapp3.1\Colas.csproj.CoreCompileInputs.cache
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\obj\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\obj\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Sindy Barrera\Desktop\STACK Y QUEUE NUMERO CAPICUA\Colas\obj\Debug\netcoreapp3.1\Colas.genruntimeconfig.cache
